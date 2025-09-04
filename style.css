@@ -15,4 +15,21 @@ body{
 button {
     background-color: aquamarine
     color blue;
+    font-family: passion One;
+}
+
+.passo{
+display: none;
+}
+.passo.ativo{
+      display: block;
+}
+
+main{
+   text-align: center;
+   max-width: 90%:
+}
+
+img{
+    max-width: 90;
 }
