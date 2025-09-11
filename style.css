@@ -13,7 +13,7 @@ body{
 }
 
 button {
-    background-color: aquamarine
+    background-color: aquamarine;
     color blue;
     font-family: passion One;
 }
@@ -22,7 +22,7 @@ button {
 display: none;
 }
 .passo.ativo{
-      display: block;
+ display: block;
 }
 
 main{
@@ -36,4 +36,5 @@ img{
 
 h1{
      color:blue;
+    background-color:antiquewhite;
 }
